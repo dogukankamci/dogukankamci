@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doğukan</h1>
-<h3 align="center">A new graduate Computer Engineer from Turkey</h3>
+<h3 align="center">A fresh graduate Computer Engineer from Turkey</h3>
 
 - 🔭 I’m currently working on **iOS Development**
 
