@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Doğukan</h1>
-<h3 align="center">A fresh graduate Computer Engineer from Turkey</h3>
+<h3 align="center">An iOS Developer from Turkey</h3>
 
-- 🔭 I’m currently working on **iOS Development at FlowQ Talent Analytics**
+- 💼 I’m currently working as an **iOS Developer at FlowQ Talent Analytics**
 
-- 🌱 I’m currently learning **SwiftUI**
+- 📱 I build iOS applications using **Swift, SwiftUI and UIKit**
 
-- 💬 Ask me about **Swift, C and Java**
+- ⚙️ Experienced with **REST APIs, Firebase, Git and modern iOS development practices**
 
-- 📫 How to reach me; **dogukankamci@gmail.com**
+- 📫 How to reach me: **dogukankamci@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
